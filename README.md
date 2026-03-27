@@ -147,8 +147,3 @@ jupyter notebook 21f1005671(mlp).ipynb
 
 **FiddleHead Competition**
 🔗 [https://kaggle.com/competitions/fiddlehead-competition](https://kaggle.com/competitions/fiddlehead-competition)
-* Convert this into a **professional portfolio project**
-* Or generate a **GitHub description + tags + cover image**
-
-Just tell me 👍
-
